@@ -5,9 +5,9 @@ and you may find interesting:
 
 | Repository | Description |
 | --- | --- |
-| [simple-private-vpc-template](https://github.com/niko-dunixi/simple-private-vpc-template) | IaC, written in GoLang, to stand up a low-cost AWS VPC that is simple enough for most of (my) use-cases and easy to create and destroy. Can be easily extended, but already has most of what you need. |
-| [golang-simple-ingestion-pipeline-template](https://github.com/niko-dunixi/golang-simple-ingestion-pipeline-template) | A staple in distributed systems, an example of a low cost Lambda/SQS/Fargate application that can be deployed to AWS or developed locally |
-| [git-openssl-shellscript](https://github.com/niko-dunixi/git-openssl-shellscript) | A script I wrote over 8 years ago that recompiles Git with OpenSSL instead of GnuTLS. I have no idea why it got so popular, but it has the most Stars and Forks of any project I've written. 😂 |
+| [simple-private-vpc-template](https://github.com/niko-dunixi/simple-private-vpc-template) | IaC, written in GoLang, to stand up a low-cost AWS VPC that is simple enough for most (of my) prototyping use-cases and easy to create and destroy. Can be easily extended, but already has most of what you need. |
+| [golang-simple-ingestion-pipeline-template](https://github.com/niko-dunixi/golang-simple-ingestion-pipeline-template) | A staple in distributed systems, an example of a low-cost Lambda/SQS/Fargate application that can be deployed to AWS or developed locally |
+| [git-openssl-shellscript](https://github.com/niko-dunixi/git-openssl-shellscript) | A script I wrote over 8 years ago that recompiles Git with OpenSSL instead of GnuTLS. I have no idea why it got so popular, but it has the most Stars and Forks of anything I've written. 😂 |
 
 <!--
 **niko-dunixi/niko-dunixi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
