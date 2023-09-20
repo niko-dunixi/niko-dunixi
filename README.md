@@ -1,6 +1,6 @@
 ### 🚀 Hi there, I'm Niko! 🦄
 
-This is my profile, please feel free to take a look around. Somethings things that I've written
+This is my profile, please feel free to take a look around. Here are some things that I've written
 and you may find interesting:
 
 | Repository | Description |
